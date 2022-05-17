@@ -11,8 +11,9 @@ or you can modify the cpp source data in *line22*.
 
 ## Continuous_Relative_Orientation
 
-Similar with the first Lab, this operation is also based on **data2.txt**file.
+Similar with the first Lab, this operation is also based on **data2.txt** file.
 
 ## Absulote_Orientation
 
 ....
+Use **data3.txt**.
